@@ -19,7 +19,7 @@ tab
   * [Cancel NFT Sale](#cancel-nft-sale)
 * [Subscriptions](#subscriptions)
 
-
+tab
 ## Definitions
 
 #### Authentication
