@@ -18,8 +18,8 @@ tab
   * [Getgems NFT Sale](#getgems-nft-sale)
   * [Cancel NFT Sale](#cancel-nft-sale)
 * [Subscriptions](#subscriptions)
-
 tab
+
 ## Definitions
 
 #### Authentication
